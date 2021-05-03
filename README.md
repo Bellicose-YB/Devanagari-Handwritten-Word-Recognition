@@ -8,7 +8,7 @@ This is our work on Handwritten Hindi Word Recognizer presented at Mosaic'21 rou
 
 ## WORKFLOW:
 
-![](images/workflow.png)
+![](https://github.com/Bellicose-YB/Devnagiri-Handwritten-Word-Recognition/blob/main/images/workflow.png)
 
 ## To run on your local system:
 * Clone the repository
@@ -19,4 +19,4 @@ This is our work on Handwritten Hindi Word Recognizer presented at Mosaic'21 rou
 ## Some Examples:
 
 * ![](https://github.com/Bellicose-YB/Devnagiri-Handwritten-Word-Recognition/blob/main/images/lol.JPG)
-* ![](images/Capture.png)
+* ![](https://github.com/Bellicose-YB/Devnagiri-Handwritten-Word-Recognition/blob/main/images/Capture.png)
