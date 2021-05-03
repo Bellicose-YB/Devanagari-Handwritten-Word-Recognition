@@ -8,7 +8,7 @@ This is our work on Handwritten Hindi Word Recognizer presented at Mosaic'21 rou
 
 ## WORKFLOW:
 
-![](./images/workflow.png)
+![](images/workflow.png)
 
 ## To run on your local system:
 * Clone the repository
@@ -18,5 +18,5 @@ This is our work on Handwritten Hindi Word Recognizer presented at Mosaic'21 rou
 
 ## Some Examples:
 
-* ![](./images/lol.jpg)
-* ![](./images/Capture.png)
+* ![](images/lol.jpg)
+* ![](images/Capture.png)
