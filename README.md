@@ -18,5 +18,5 @@ This is our work on Handwritten Hindi Word Recognizer presented at Mosaic'21 rou
 
 ## Some Examples:
 
-* ![](images/lol.jpg)
+* ![](https://github.com/Bellicose-YB/Devnagiri-Handwritten-Word-Recognition/blob/main/images/lol.JPG)
 * ![](images/Capture.png)
