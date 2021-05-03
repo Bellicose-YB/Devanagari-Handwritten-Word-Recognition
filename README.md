@@ -1,1 +1,22 @@
-# Devnagiri-Handwritten-Character-Recognition
+# Handwritten Devanagari Word Recognition
+
+This is our work on Handwritten Hindi Word Recognizer presented at Mosaic'21 round 1. Our model can predict 21 devnagiri characters with a very high accuracy. We have removed some of the devnagiri characters to maximize the accuracy of prediction. 
+
+## CHARACTER SET:
+
+क, घ, च, ज, ट, ठ, ढ, थ, प, फ, ब, म, र, ल, ष, स, ह, क्ष, त्र, ज्ञ, ॠ
+
+## WORKFLOW:
+
+![Markdown Logo](images/workflow.png)
+
+## To run on your local system:
+* Clone the repository
+* Install all dependencies requirments.txt
+* Carefully check on which image you want to run as well as it is in images folder or not.
+* Finally run main.py(driver code).
+
+## Some Examples:
+
+* ![Markdown Logo](images/lol.jpg)
+* ![Markdown Logo](images/Capture.png)
